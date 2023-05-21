@@ -1,0 +1,15 @@
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\bin\Debug\net7.0\Task1p2.exe
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\bin\Debug\net7.0\Task1p2.deps.json
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\bin\Debug\net7.0\Task1p2.runtimeconfig.json
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\bin\Debug\net7.0\Task1p2.dll
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\bin\Debug\net7.0\Task1p2.pdb
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.csproj.AssemblyReference.cache
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.AssemblyInfoInputs.cache
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.AssemblyInfo.cs
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.csproj.CoreCompileInputs.cache
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.dll
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\refint\Task1p2.dll
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.pdb
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\Task1p2.genruntimeconfig.cache
+C:\Users\ryuu\RiderProjects\Task1p2\Task1p2\obj\Debug\net7.0\ref\Task1p2.dll
